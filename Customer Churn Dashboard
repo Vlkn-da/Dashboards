@@ -1,0 +1,26 @@
+The Customer Churn Analysis dashboard visualizes various metrics that contribute to understanding customer churn. It addresses the following questions:
+
+1. What demographic groups have the highest churn rates?
+
+2. How does having an unlimited data plan affect the likelihood of churn?
+
+3. What are the primary reasons customers are leaving?
+
+4. Does the churn rate decrease with increased account length?
+
+5. Are there geographic patterns to churn that could indicate regional market challenges or opportunities for targeted marketing campaigns?
+
+6. How do the churn rates correlate with other customer metrics such as usage patterns or service level received?
+
+
+- **Churn Rate by Demographics:** Donut charts showing the percentage of churn by age groups, highlighting which demographics are more likely to leave.
+
+- **Churn Rate by Unlimited Data Plan:** A donut chart indicating the churn distribution between customers with and without unlimited data plans.
+
+- **Churn Category and Reason:** Bar charts displaying the count and percentage of churn by categories like Attitude, Competition, Price, etc., and specific reasons for churn such as service dissatisfaction or network issues.
+
+- **Churn Rate by Age and Account Length:** A bar and line chart showing the number of customers and churn rate by age group, and a line chart indicating the churn rate over account length in months.
+
+- **Geographical Distribution:** A global map detailing churn rates, the number of customers, and the number of churned customers by state.
+
+
